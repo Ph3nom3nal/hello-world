@@ -1,0 +1,37 @@
+body {
+    background-color:lightblue; 
+}
+
+nav {
+    text-transform: uppercase;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.nav-item {  
+    background-color:lightblue; 
+}
+
+.nav-item {
+   opacity: 0.7; 
+}
+
+.nav-item:hover {
+    opacity: 1.0;
+    background-color: gray;
+}
+
+header {
+    background-image: url("https://static01.nyt.com/images/2018/01/14/realestate/14Brooklyn/merlin_127549397_cdaab3a5-d376-435e-9dc0-d5188c07c897-articleLarge.jpg?quality=75&auto=webp&disable=upscale");
+    text-align: center;
+    height: 600px;
+    background-size: cover;
+}
+
+header p {
+    font-style: italic;
+}
+
+.services i{
+    /*Adjust the size and position of the icon*/
+    font-size
+}    
