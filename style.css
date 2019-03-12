@@ -33,5 +33,18 @@ header p {
 
 .services i{
     /*Adjust the size and position of the icon*/
-    font-size
+    font-size: 40px;
+    padding: 25px 20px;
+    /*color changes the color of the icon*/
+    color: #fff;
+    background-color: #5bc0de;
+    /*Resize the container the icon is in*/
+    width: 80px;
+    height: 80px;
+    /*change the roundness of the conatiner*/
+    border-radius: 50%;
 }    
+.team h2{
+    text-align: center;
+    
+}
